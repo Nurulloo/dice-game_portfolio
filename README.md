@@ -1,6 +1,4 @@
-3# Dice-game
-
-> ### .
+# Dice-game
 
 ## Built With
 
